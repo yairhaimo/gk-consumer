@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-gk-lib@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gk-lib/-/gk-lib-1.0.0.tgz#8dfd602207317099f8546d61de0f16f5495ac1db"
-  integrity sha512-k6B7H6VXvYi84xcI8BbCuW/8zbrY9kGlRjZuxnOZlMjy76Iy22LWLX8YXE6Q6pD9XDt9cRWqFI4U4x/KYpmPEQ==
+gk-lib@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gk-lib/-/gk-lib-1.0.1.tgz#0697e0c061eded7b4a6c8a165b18a0fd384f4f80"
+  integrity sha512-h2rfAjk2sz7re3anL2gET0vYQSkcVRQ+zkgR0a76byLRppjHHY3YOYEfsym12/nR1XncCXIQqnJK8YSiDTHcvQ==
