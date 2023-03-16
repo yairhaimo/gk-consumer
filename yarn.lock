@@ -3,6 +3,6 @@
 
 
 gk-lib@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gk-lib/-/gk-lib-1.0.0.tgz#8dfd602207317099f8546d61de0f16f5495ac1db"
-  integrity sha512-k6B7H6VXvYi84xcI8BbCuW/8zbrY9kGlRjZuxnOZlMjy76Iy22LWLX8YXE6Q6pD9XDt9cRWqFI4U4x/KYpmPEQ==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/gk-lib/-/gk-lib-1.1.0.tgz#694d9f35bd66676b0c268470e92d7a7370652a13"
+  integrity sha512-lxjeF9VFhnDs77/4KTO2JuddvDpQWd4IjHZi6QBD1/06ukAEWvPrxuRe5TZkvXDWs6uk9oWa6aaMZ+JCY9XFyA==
